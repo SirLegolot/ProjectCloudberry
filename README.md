@@ -1,4 +1,5 @@
 # Project CloudBerry
+This is a copy from the original source repo that I made during my internship: https://github.com/googleinterns/step62-2020
 
 ![Cloudberry Logo](/project/src/main/webapp/images/logo_search.png)
 
